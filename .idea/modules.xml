@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://H:\androidxiaoshixun\github2\MyApplicationwqewqe\MyApplication.iml" filepath="H:\androidxiaoshixun\github2\MyApplicationwqewqe\MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationwqewqe.iml" filepath="$PROJECT_DIR$/MyApplicationwqewqe.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\androidxiaoshixun\github2\MyApplicationwqewqe\app\app.iml" filepath="H:\androidxiaoshixun\github2\MyApplicationwqewqe\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cehuacaidan/cehuacaidan.iml" filepath="$PROJECT_DIR$/cehuacaidan/cehuacaidan.iml" />
+      <module fileurl="file://H:\androidxiaoshixun\github2\MyApplicationwqewqe\cehuacaidan\cehuacaidan.iml" filepath="H:\androidxiaoshixun\github2\MyApplicationwqewqe\cehuacaidan\cehuacaidan.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvptest3/mvptest3.iml" filepath="$PROJECT_DIR$/mvptest3/mvptest3.iml" />
+      <module fileurl="file://H:\androidxiaoshixun\github2\MyApplicationwqewqe\mvptest3\mvptest3.iml" filepath="H:\androidxiaoshixun\github2\MyApplicationwqewqe\mvptest3\mvptest3.iml" />
     </modules>
   </component>
 </project>
