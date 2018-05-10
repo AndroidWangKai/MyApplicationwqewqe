@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         RecAdapter recAdapter = new RecAdapter(R.layout.layout_item, list);
         rec.setAdapter(recAdapter);
         recAdapter.openLoadAnimation(BaseQuickAdapter.SLIDEIN_LEFT);
-        recAdapter.isFirstOnly(true);
+        recAdapter.isFirstOnly(false);
         recAdapter.setOnItemChildClickListener(new BaseQuickAdapter.OnItemChildClickListener() {
             @Override
             public void onItemChildClick(BaseQuickAdapter adapter, View view, int position) {

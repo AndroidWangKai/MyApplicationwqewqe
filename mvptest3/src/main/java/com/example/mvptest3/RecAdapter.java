@@ -23,8 +23,7 @@ public class RecAdapter extends BaseQuickAdapter<Bean,BaseViewHolder> {
     protected void convert(BaseViewHolder helper, Bean item) {
 //        Picasso.with(mContext).load(item.getContent()).into((ImageView) helper.getView(R.id.mtext));
         Glide.with(mContext).load(item.getContent()).crossFade().into((ImageView) helper.getView(R.id.mtext));
-        helper.addOnClickListener(R.id.mtext);
-        helper.addOnLongClickListener(R.id.mtext);
+
 
 //        helper.setImageBitmap(R.id.mtext,)
     }
